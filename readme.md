@@ -1,6 +1,6 @@
 **SMS sender platform**
 
-A Node project by Amalitech.org.
+A Node project 
 
 
 DESCRIPTION -A simple sms-sender platform for a digital marketing enterpreneur Ronald to enable him send messages to his clients. The app will enable him to send message to multiple client at once, have records of all SMS sent to clients and message templates to send to clients on certain business offers with ease. -The website has been designed to be compatible with desktop screen-size, tablet and mobile screen. -It can simply be accessed by visiting https://lit-forest-79037.herokuapp.com
